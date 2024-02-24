@@ -1,11 +1,10 @@
-How to install dependencies for the Aeronautica Autopilot
-
+How to install dependencies for AeronauticaAutopilot and run it
 
 ---
 
 Install Tesseract here: https://github.com/UB-Mannheim/tesseract/wiki
 
-Do not change anything when offered path, and "install just for me" works fine.
+Do not change anything when offered change of path, and "install just for me" works fine.
 
 
 Install Python here: https://www.python.org/downloads/
@@ -14,13 +13,11 @@ Install every optional features to ensure it does not break
 
 ---
 
-
 You will need to "pip" install these
 
 1. Open cmd as Admin
 2. Input the following strings
    pip install pytesseract
    pip install pyautogui
-
 
 ---
