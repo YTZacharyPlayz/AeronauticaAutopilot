@@ -1,19 +1,13 @@
 # AeronauticaAutopilot Documentation
-###### Version 1, 2nd December
-###### For Version v0.0a
+###### Version 2, 16 March
+###### For Version v1
 
 ## Get started
 
-### Installing libraries (Plug-ins) for the code to use
+### Installing libraries (Plug-ins) and other dependencies for the program to use
 
-1. Run cmd.exe as administrator
-2. Run the following lines
-
-    pip install pynput
-  
-    pip install PyAutoGUI
-  
-    pip install pytesseract
+1. Go to "How to install Aeronautica Autopilot.txt"
+2. Restart your device to ensure all changes needed are made
 
 ### Load up Aeronatuica
 

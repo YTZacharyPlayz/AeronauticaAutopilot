@@ -1,6 +1,8 @@
-How to install dependencies for AeronauticaAutopilot and run it
+How to install AeronauticaAutopilot
 
 ---
+
+Dependencies
 
 Install Tesseract here: https://github.com/UB-Mannheim/tesseract/wiki
 
@@ -12,6 +14,8 @@ Install Python here: https://www.python.org/downloads/
 Install every optional features to ensure it does not break
 
 ---
+
+Local Libraries
 
 You will need to "pip" install these
 
