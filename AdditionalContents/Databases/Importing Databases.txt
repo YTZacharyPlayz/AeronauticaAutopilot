@@ -1,0 +1,9 @@
+1. Find the line where it says "# Paste the AA Database here..."
+
+2. Find the lastest version of the database available in this folder
+
+3. Copy the entire file
+
+4. Paste it in via a text editor
+
+5. Done
